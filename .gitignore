@@ -2,6 +2,7 @@
 datasets/
 *.csv
 *.txt
+!requirements.txt
 
 # Python & Notebooks
 __pycache__/
