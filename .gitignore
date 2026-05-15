@@ -1,0 +1,16 @@
+# Data
+datasets/
+*.csv
+*.txt
+
+# Python & Notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS metadata
+.DS_Store
+Thumbs.db
